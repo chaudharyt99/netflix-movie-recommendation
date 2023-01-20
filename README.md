@@ -9,7 +9,7 @@
 
 -   Activate the virtual environment
 
-        source bert-imdb/bin/activate
+        source netflix-annoy/bin/activate
  
 
 -   Install dependencies: 
